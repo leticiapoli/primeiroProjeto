@@ -7,6 +7,7 @@ export default function App() {
       <Text>poliana</Text>
       <Text>14/03</Text>
   <Button title='salvar'></Button>
+  <Button title='novo botão'></Button>
     </View>
   );
 }
