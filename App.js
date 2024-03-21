@@ -1,5 +1,6 @@
 import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, Text, View,Button} from 'react-native';
+import Title from '/scr/componentes/poliana';
 
 export default function App() {
   return (
